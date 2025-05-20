@@ -8,7 +8,7 @@ Building my way from behavioural science to data pipelines 🚀
 ## 🧠 About Me
 
 Hi, I'm Rachael (she/her) — a data engineer-in-training with a researcher's mind, a creative heart, and a backend brain.  
-I'm currently training full-time at Kubrick Group, specialising in data modelling, SQL performance, Python, and scalable data systems.
+I'm currently specialising in data modelling, SQL performance, Python, and scalable data systems.
 
 Originally from a Politics & Behavioural Science background, I bring systems thinking and curiosity to everything I build. Whether I’m designing an ETL pipeline or reverse-engineering a vocal run (yes, I’m that person), I care about structure, flow, and human insight.
 
