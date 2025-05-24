@@ -24,6 +24,9 @@ I’m currently focused on:
 
 ## 🛠️ Projects
 
+### `apprentice-success-tracker'
+A simulated EdTech analytics project that models apprentice data, using statistical real world bias, for factors affecting success of training, neurodivergent, ethnicity and gender differences in placement rates, perceived readiness and average project scores across three curriculum versions for longitudinal analysis.
+
 ### `employee-analytics-pipeline` *(in progress)*
 A simulated HR analytics project that models employee data for burnout risk, role churn, and performance metrics — built using SQL, Python, and modular ETL logic.
 
