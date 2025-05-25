@@ -24,7 +24,11 @@ I’m currently focused on:
 
 ## 🛠️ Projects
 
-### `apprentice-success-tracker'
+## `data-dungeon-warehouse`
+A mini data warehouse project that models commerce data from raw, dirty, synthetically generated CSV files to reflect real-world constraints.  
+Tech stack includes: PostgreSQL, PlantUML, and dbt-style modelling (staging, intermediate, and mart layers).
+
+### `apprentice-success-tracker` 
 A simulated EdTech analytics project that models apprentice data, using statistical real world bias, for factors affecting success of training, neurodivergent, ethnicity and gender differences in placement rates, perceived readiness and average project scores across three curriculum versions for longitudinal analysis.
 
 ### `employee-analytics-pipeline` *(in progress)*
