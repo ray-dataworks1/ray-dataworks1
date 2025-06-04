@@ -32,7 +32,7 @@ Tech stack includes: PostgreSQL, PlantUML, and dbt-style modelling (staging, int
 A simulated EdTech analytics project that models apprentice data, using statistical real world bias, for factors affecting success of training, neurodivergent, ethnicity and gender differences in placement rates, perceived readiness and average project scores across three curriculum versions for longitudinal analysis.
 
 ### `nhs-waitlist-pipeline (in-progress)`
- A modular analytics engineering pipeline to model elective surgery waitlists across NHS Trusts—surfacing overdue cases, risk-stratified backlogs, and capacity mismatches.
+ A modular analytics engineering pipeline to model elective surgery waitlists across NHS Trusts: surfacing overdue cases, risk-stratified backlogs, and capacity mismatches.
 
 ---
 
