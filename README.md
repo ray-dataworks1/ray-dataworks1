@@ -1,6 +1,6 @@
 # Hey, I'm Rachael 👋🏾 | @ray-dataworks1
 
-Trainee Data Engineer • Systems Thinker • Backend Brain  
+Trainee Data Analytics Engineer • Systems Thinker • Backend Brain  
 Building my way from behavioural science to data pipelines 🚀
 
 ---
