@@ -50,7 +50,7 @@ Factors include: neurodivergence, ethnicity, gender, placement rates, readiness 
 ### International Payments Compliance Analytics
 A greenfield analytics product simulating a FinTech platform’s compliance dashboard.  
 **Impact:** Automates AML (Anti-Money Laundering) checks, risk scoring, and regulatory reporting for international transactions.  
-**Tech Stack:** dbt (Core), BigQuery, SQL, Jinja/macros, Metabase  
+**Tech Stack:** dbt (Core), Snowflake, Jinja/macros, Looker Studio, Python
 
 
 ###  Employee Data Pipeline Mini Project
