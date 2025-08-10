@@ -56,7 +56,7 @@ A greenfield analytics product simulating a FinTech platform’s compliance dash
 ###  Employee Data Pipeline Mini Project
 Beginner-friendly, end-to-end pipeline that generates, saves, and transforms employee data with automation hooks.  
 **Impact:** Demonstrates Python pipeline automation, CSV handling, and modular ETL logic — perfect for onboarding into DE workflows.  
-** Tech Stack:** Python, pandas, CSV, cron jobs, bash  
+**Tech Stack:** Python, pandas, CSV, cron jobs, bash  
 
 ---
 
