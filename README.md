@@ -1,47 +1,76 @@
 # Hey, I'm Rachael 👋🏾 | @ray-dataworks1
-
-Trainee Data Analytics Engineer • Systems Thinker • Backend Brain  
-Building my way from behavioural science to data pipelines 🚀
+**Analytics Engineering • Systems Thinking • Backend Brain**  
+From behavioural science to building data pipelines 🚀
 
 ---
 
 ## 🧠 About Me
+Hi, I’m **Rachael (she/her)** — an **Analytics Engineering specialist-in-training** with a researcher's mind, a creative heart, and a backend brain.
 
-Hi, I'm Rachael (she/her) — a data engineer-in-training with a researcher's mind, a creative heart, and a backend brain.  
-I'm currently specialising in data modelling, SQL performance, dbt, Python, and scalable data systems.
+I bring **systems thinking** and **curiosity** to every build, whether I’m designing an ETL pipeline or reverse-engineering a vocal run (yes, I’m that person). My goal is to create **data systems that are clean, scalable, and human-friendly**.
 
-Originally from a Research & Behavioural Science background, I bring systems thinking and curiosity to everything I build. Whether I’m designing an ETL pipeline or reverse-engineering a vocal run (yes, I’m that person), I care about structure, flow, and human insight.
-
-I’m currently focused on:
-
-- Building out clean, scalable ETL pipelines  
-- Learning database internals and indexing strategies  
-- Improving semantic data model design and cloud-native orchestration  
-- Creating intuitive, well-structured project documentation  
-- Embracing mistakes, learning fast, and becoming more technically fearless
+**Current focus areas:**
+- Building clean, scalable **ETL/ELT pipelines**
+- **Database internals** & indexing strategies
+- **Semantic data model design** & cloud-native orchestration
+- Writing clear, intuitive **project documentation**
+- Becoming **technically fearless** through rapid iteration & learning
 
 ---
 
-## 🛠️ Projects
+## 🏗 Featured Projects
 
-## `data-dungeon-warehouse`
-A mini data warehouse project that models commerce data from raw, dirty, synthetically generated CSV files to reflect real-world constraints.  
-Tech stack includes: PostgreSQL, PlantUML, and dbt-style modelling (staging, intermediate, and mart layers).
+### **📦 NHS Waitlist Pipeline** *(in progress)*
+A modular analytics engineering pipeline modelling **elective surgery waitlists** across NHS Trusts.  
+**Outputs:** Overdue case tracking, **risk-stratified backlogs**, and capacity mismatch alerts.  
+**Tech stack:** dbt, Snowflake, Python, Looker Studio, PlantUML.
 
-### `apprentice-success-tracker` 
-A simulated EdTech analytics project that models apprentice data, using statistical real world bias, for factors affecting success of training, neurodivergent, ethnicity and gender differences in placement rates, perceived readiness and average project scores across three curriculum versions for longitudinal analysis.
+---
 
-### `nhs-waitlist-pipeline (in-progress)`
- A modular analytics engineering pipeline to model elective surgery waitlists across NHS Trusts: surfacing overdue cases, risk-stratified backlogs, and capacity mismatches.
+### **👪 Family Schema **
+A relational schema and analytics workflow for **multi-generational family data**.  
+**Focus:** complex joins, historical data handling, and producing **longitudinal insights** on household change.  
+**Tech stack:** PostgreSQL, dbt, PlantUML.
+
+---
+
+### **🚀 Greenfield Analytics Build (in progress) **
+A simulated **greenfield company analytics stack**, from ingestion to semantic layer, optimised for **low-latency queries** and **self-serve BI**.  
+**Focus:** end-to-end orchestration, metadata-driven models, and efficient transformations.  
+**Tech stack:** dbt, PostgreSOL, Airbyte, Metabase.
+
+---
+
+### **📊 apprentice-success-tracker**
+A simulated **EdTech analytics** project analysing apprentice performance over time.  
+Factors include: neurodivergence, ethnicity, gender, placement rates, readiness scores, and curriculum version performance.  
+**Tech stack:** Python, PostgreSQL, dbt-style transformations.
 
 ---
 
 ## 📚 Current Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PlantUML](https://img.shields.io/badge/PlantUML-F7DF1E?style=for-the-badge&logo=uml&logoColor=black)
 
-**Languages**: Python, SQL  
-**Data Warehousing**: BigQuery 
-**Tools**: Git, dbt Core, VSCode  
-**Learning**: Data Structures & Algorithms (Helsinki), CS186 (Berkeley), Itzik Ben-Gan (T-SQL)
+---
+
+## 🤝 Let’s Connect
+If you're into **data engineering, systems design**, or **sonic architecture** (ask me about R’n’B, jazz, pop, soul, hip hop…), I’d love to connect.
+
+📧 Email: **r.ogungbose@outlook.com**  
+🔗 [LinkedIn](https://linkedin.com/in/rachaelogungbose/)
+
+---
+
+🧩 *Always learning. Always building. One layer at a time.*
+
 
 ---
 
