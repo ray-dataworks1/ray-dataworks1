@@ -46,6 +46,18 @@ A simulated **EdTech analytics** project analysing apprentice performance over t
 Factors include: neurodivergence, ethnicity, gender, placement rates, readiness scores, and curriculum version performance.  
 **Tech stack:** Python, PostgreSQL, dbt-style transformations.
 
+
+### International Payments Compliance Analytics
+A greenfield analytics product simulating a FinTech platform’s compliance dashboard.  
+**Impact:** Automates AML (Anti-Money Laundering) checks, risk scoring, and regulatory reporting for international transactions.  
+**Tech Stack:** dbt (Core), BigQuery, SQL, Jinja/macros, Metabase  
+
+
+###  Employee Data Pipeline Mini Project
+Beginner-friendly, end-to-end pipeline that generates, saves, and transforms employee data with automation hooks.  
+**Impact:** Demonstrates Python pipeline automation, CSV handling, and modular ETL logic — perfect for onboarding into DE workflows.  
+** Tech Stack:** Python, pandas, CSV, cron jobs, bash  
+
 ---
 
 ## 📚 Current Tech Stack
