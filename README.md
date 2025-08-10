@@ -27,21 +27,21 @@ A modular analytics engineering pipeline modelling **elective surgery waitlists*
 
 ---
 
-### **👪 Family Schema **
+### 👪 Family Schema 
 A relational schema and analytics workflow for **multi-generational family data**.  
 **Focus:** complex joins, historical data handling, and producing **longitudinal insights** on household change.  
 **Tech stack:** PostgreSQL, dbt, PlantUML.
 
 ---
 
-### **🚀 Greenfield Analytics Build (in progress) **
+### 🚀 Greenfield Analytics Build (in progress) 
 A simulated **greenfield company analytics stack**, from ingestion to semantic layer, optimised for **low-latency queries** and **self-serve BI**.  
 **Focus:** end-to-end orchestration, metadata-driven models, and efficient transformations.  
 **Tech stack:** dbt, PostgreSOL, Airbyte, Metabase.
 
 ---
 
-### **📊 apprentice-success-tracker**
+### 📊 apprentice-success-tracker
 A simulated **EdTech analytics** project analysing apprentice performance over time.  
 Factors include: neurodivergence, ethnicity, gender, placement rates, readiness scores, and curriculum version performance.  
 **Tech stack:** Python, PostgreSQL, dbt-style transformations.
