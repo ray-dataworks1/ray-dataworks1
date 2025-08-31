@@ -34,10 +34,10 @@ A relational schema and analytics workflow for **multi-generational family data*
 
 ---
 
-### 🚀 Greenfield Analytics Build (in progress) 
+### 🚀 SaaS Greenfield Analytics Build (in progress) 
 A simulated **greenfield company analytics stack**, from ingestion to semantic layer, optimised for **low-latency queries** and **self-serve BI**.  
 **Focus:** end-to-end orchestration, metadata-driven models, and efficient transformations.  
-**Tech stack:** dbt, PostgreSOL, Airbyte, Metabase.
+**Tech stack:** dbt, PostgreSOL, BigQuery, Airbyte, CI/CD
 
 ---
 
