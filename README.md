@@ -18,33 +18,17 @@ I bring **systems thinking** and **curiosity** to every build, whether I’m des
 
 ---
 
-## 🏗 Featured Projects
+## 🏗 Flagship Projects
 
-### **📦 NHS Waitlist Pipeline** *(in progress)*
+### **📦 NHS Waitlist Pipeline**
 A modular analytics engineering pipeline modelling **elective surgery waitlists** across NHS Trusts.  
 **Outputs:** Overdue case tracking, **risk-stratified backlogs**, and capacity mismatch alerts.  
 **Tech stack:** dbt, Snowflake, Python, Looker Studio, PlantUML.
 
----
-
-### 👪 Family Schema 
-A relational schema and analytics workflow for **multi-generational family data**.  
-**Focus:** complex joins, historical data handling, and producing **longitudinal insights** on household change.  
-**Tech stack:** PostgreSQL, dbt, PlantUML.
-
----
-
 ### 🚀 SaaS Greenfield Analytics Build (in progress) 
 A simulated **greenfield company analytics stack**, from ingestion to semantic layer, optimised for **low-latency queries** and **self-serve BI**.  
 **Focus:** end-to-end orchestration, metadata-driven models, and efficient transformations.  
-**Tech stack:** dbt, PostgreSOL, BigQuery, Airbyte, CI/CD
-
----
-
-### 📊 apprentice-success-tracker
-A simulated **EdTech analytics** project analysing apprentice performance over time.  
-Factors include: neurodivergence, ethnicity, gender, placement rates, readiness scores, and curriculum version performance.  
-**Tech stack:** Python, PostgreSQL, dbt-style transformations.
+**Tech stack:** dbt, PostgreSOL, BigQuery, GitHub Actions, Python, CI/CD
 
 
 ### International Payments Compliance Analytics
@@ -52,11 +36,6 @@ A greenfield analytics product simulating a FinTech platform’s compliance dash
 **Impact:** Automates AML (Anti-Money Laundering) checks, risk scoring, and regulatory reporting for international transactions.  
 **Tech Stack:** dbt (Core), Snowflake, Jinja/macros, Looker Studio, Python
 
-
-###  Employee Data Pipeline Mini Project
-Beginner-friendly, end-to-end pipeline that generates, saves, and transforms employee data with automation hooks.  
-**Impact:** Demonstrates Python pipeline automation, CSV handling, and modular ETL logic — perfect for onboarding into DE workflows.  
-**Tech Stack:** Python, pandas, CSV, cron jobs, bash  
 
 ---
 
